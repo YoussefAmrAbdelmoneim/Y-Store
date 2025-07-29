@@ -28,7 +28,7 @@ Key features include:
 
 🎥 Demo
 
-https://y-store-one.vercel.app
+https://y-store-alpha.vercel.app
 
 🧱 Tech Stack Used
 
