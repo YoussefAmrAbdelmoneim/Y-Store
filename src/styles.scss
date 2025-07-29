@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+@import 'ngx-toastr/toastr';
+@custom-variant dark (&:where(.dark, .dark *));
+  ::selection {
+    background: rgba(59, 130, 246, 0.3);
+  }
